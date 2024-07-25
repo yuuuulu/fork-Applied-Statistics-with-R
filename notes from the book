@@ -1,0 +1,6 @@
+1） p66 reminds me I should plot scatter plots to delete some extream values(one kind is the wrong data that we may observe from plots, but real data also may need to delete now) in order to capture the overall population's information.
+But there is also some researcher or professors(such as Dr. Chengxiu Ling in XJTLU )who do research on extream values, which needs to befocus separately.
+2) p-hacking / data-dredging dubious:lots of things affect your ability to detect "significance" beyond the validity of your hypotheses
+3)focus your energy on understanding and estimating the explanatory power of your predictor variables ----always ask yourself that:if there is a relationship between your predictor and response vars and how confident you can be in any relationship you've tried to quantify.
+4)pick the statistical analysis that does the best job of representing and interpreting your data
+5)
